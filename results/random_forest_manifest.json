@@ -1,0 +1,13 @@
+{
+  "random_seed": 42,
+  "n_estimators": 200,
+  "max_depth": null,
+  "class_weight": "balanced",
+  "train_labeled_count": 29894,
+  "val_labeled_count": 7829,
+  "test_labeled_count": 8841,
+  "feature_file": "C:\\Users\\chpav\\.gemini\\antigravity\\scratch\\crypto-aml-gnn-phase2\\data\\processed\\elliptic_x_reduced.npy",
+  "label_file": "C:\\Users\\chpav\\.gemini\\antigravity\\scratch\\crypto-aml-gnn-phase2\\data\\processed\\elliptic_y.npy",
+  "mask_file": "C:\\Users\\chpav\\.gemini\\antigravity\\scratch\\crypto-aml-gnn-phase2\\data\\processed\\elliptic_masks.npz",
+  "tx_mapping_file": "C:\\Users\\chpav\\.gemini\\antigravity\\scratch\\crypto-aml-gnn-phase2\\data\\processed\\elliptic_idx_to_tx.json"
+}

@@ -9,3 +9,7 @@ torch_geometric>=2.5.0
 
 # Utilities & Research Verification
 pypdf>=4.0.0
+
+# Traditional ML baseline
+scikit-learn>=1.5.0
+joblib>=1.4.0
